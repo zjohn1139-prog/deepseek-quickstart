@@ -94,11 +94,6 @@ $ nohup jupyter lab --port=8000 --NotebookApp.token='替换为你的密码' --no
 Jupyter Lab 输出的日志将会保存在 `nohup.out` 文件（已在 .gitignore中过滤）。
 
 
-## 课程大纲
-
-完整文档请移步：[大模型（LLMs）应用开发快速入门指南课程大纲](docs/schedule.md#课程表)
-
-
 ## 贡献
 
 贡献是使开源社区成为学习、激励和创造的惊人之处。非常感谢你所做的任何贡献。如果你有任何建议或功能请求，请先开启一个议题讨论你想要改变的内容。
