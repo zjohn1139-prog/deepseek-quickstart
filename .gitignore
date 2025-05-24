@@ -174,3 +174,7 @@ cython_debug/
 .pypirc
 
 *nohup.out
+*.db
+*.db.lock
+*.zip
+deepseek/api/milvus_docs/*
