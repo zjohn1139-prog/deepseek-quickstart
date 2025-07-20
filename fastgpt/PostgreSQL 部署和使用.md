@@ -16,7 +16,7 @@
 
 #### 1.1 安装 Docker (如果尚未安装)
 
-![Ubuntu 安装 Docker 和 Docker Compose 指南](../docs/docker.md)
+[Ubuntu 安装 Docker 和 Docker Compose 指南](../docs/docker.md)
 
 #### 1.2 拉取并运行 PostgreSQL 容器
 
@@ -127,7 +127,7 @@ sudo ufw status
 5.  **创建表和插入数据**：使用 SQL 编辑器 (推荐)
     *   在 DBeaver 顶部菜单栏，点击 **`SQL 编辑器` -> `新建 SQL 编辑器`** (或使用快捷键 `Cmd + [` )。
     *   确保编辑器顶部的连接指向的是你的 PostgreSQL 数据库。
-    *   编写并执行 CREATE 和 INSERT 语句: ![create.sql](create.sql)
+    *   编写并执行 CREATE 和 INSERT 语句: [create.sql](create.sql)
 
 
 #### 数据库设计说明
